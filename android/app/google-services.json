@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449446941376",
+    "project_id": "dr-adel-wr",
+    "storage_bucket": "dr-adel-wr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449446941376:android:022ed82c51424609409325",
+        "android_client_info": {
+          "package_name": "net.wordreward.dahabdentist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449446941376-dll2g16si7c99h05qeb7aa22r6nm0uqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.wordreward.dahabdentist",
+            "certificate_hash": "01aa7be5131e8cbd6978ff49c31c97a8ba901cc7"
+          }
+        },
+        {
+          "client_id": "449446941376-627k13deherhfc01v39l0btprkqsifhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE6sncdkCPc10y039O0Y-qKjSTtQ1Z0FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449446941376-627k13deherhfc01v39l0btprkqsifhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

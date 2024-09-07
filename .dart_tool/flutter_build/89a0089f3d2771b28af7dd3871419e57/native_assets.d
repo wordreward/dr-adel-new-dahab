@@ -1,0 +1,1 @@
+ D:\\Flutter\ Applications\\WordReward\\dr-adel-new-version\\.dart_tool\\flutter_build\\89a0089f3d2771b28af7dd3871419e57\\native_assets.yaml: 

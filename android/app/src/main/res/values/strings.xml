@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WordReward</string>
+    <string name="facebook_app_id">5160972974025898</string>
+    <string name="fb_login_protocol_scheme">fb5160972974025898</string>
+    <string name="facebook_client_token">33a314d7a94aaf73d07f530079c24f19</string>
+</resources>
+
